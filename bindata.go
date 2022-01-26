@@ -5,7 +5,7 @@
 // template/template2.html (1.416kB)
 // template/template3.html (1.446kB)
 
-package main
+package pdf
 
 import (
 	"bytes"
